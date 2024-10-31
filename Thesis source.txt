@@ -1,0 +1,101 @@
+Backtest by Curvo
+https://curvo.eu/backtest/
+
+Factset
+EARNINGS INSIGHT
+John Butters
+VP, Senior Earnings Analyst
+https://advantage.factset.com/hubfs/Website/Resources%20Section/Research%20Desk/Earnings%20Insight/EarningsInsight_100424.pdf#:~:text=As%20of%20today%2C%20the%20S%26P,earnings%20growth%20for%20the%20index.
+
+Economatica, a tc compay
+Value reports
+ROIC: S&P 500 Performance
+https://valuereports.economatica.com/roic-sp-500-performance/
+
+Factset
+Are the “Magnificent 7” the Top Contributors to Earnings Growth for the S&P 500 for Q1?
+By John Butters  |  April 22, 2024
+https://insight.factset.com/are-the-magnificent-7-the-top-contributors-to-earnings-growth-for-the-sp-500-for-q1
+
+Capital Ideas
+Magnificent Seven: What do you need to believe?
+David Polak
+Equity Investment Director
+January 9, 2024
+https://www.capitalgroup.com/institutional/insights/articles/magnificent-seven-chart-diversify.html
+
+Goldamn Sachs Global Investment Research 
+
+MSCI US IMI Information Technology 25/50 Index (USD) | msci.com
+
+ROIC – The Underappreciated Variable in Valuation | Kennedy capital management
+
+FedWatch - CME Group
+
+U.S. 10 Year Treasury, CNBC 21/09/2024
+
+Echoes of dotcom bubble haunt AI-driven US stock market | Reuters By Lewis Krauskopf
+https://www.reuters.com/markets/echoes-dotcom-bubble-haunt-ai-driven-us-stock-market-2024-07-02/
+
+LSEG Datastream
+
+S&P 500 vs. S&P 500 Equal Weight Index | Visual Capitalist By Marcus Lu
+https://www.visualcapitalist.com/charted-sp-500-vs-sp-500-equal-weight-index/
+
+
+How the Top S&P 500 Companies Have Changed Over Time | Visual Capitalist By Marcus Lu
+https://www.visualcapitalist.com/how-the-top-sp-500-companies-have-changed-over-time/
+
+
+The Tech Sector: A Comparative Analysis of Valuations from the Dot Com Era to Today | Bravo Research
+https://bravosresearch.com/blog/the-tech-sector-a-comparative-analysis-of-valuations-from-the-dot-com-era-to-today/
+
+
+
+AIRanked: Tech Manufacturers by R&D Investment Change in 2023 | Visual Capitalist  By Pallavi Rao
+https://www.visualcapitalist.com/charted-tech-companies-r-d-change-2023/
+
+
+Ranked: The Most Popular Generative AI Tools in 2024 | Visual Capitalist By Kayla Zhu
+https://www.visualcapitalist.com/ranked-the-most-popular-generative-ai-tools-in-2024/
+
+
+Are We on the Brink of an AI Investment Arms Race?  | BridgeWater By Greg Jensen, Josh Moriarty   May 20, 2024
+https://www.bridgewater.com/research-and-insights/are-we-on-the-brink-of-an-ai-investment-arms-race
+
+
+
+
+Is an AI Bubble Ahead of Us or Behind Us? | BridgeWater by GREG JENSEN ATUL NARAYAN ALEX GREENE LAUREN SIMON   SEPTEMBER 10, 2024 
+https://www.bridgewater.com/research-and-insights/is-an-ai-bubble-ahead-of-us-or-behind-us
+
+
+Archivo:Sectors of US Economy as Percent of GDP 1947-2009 | Wikipedia
+
+
+US GDP by Industry 2023 | Visual Capitalist
+https://www.visualcapitalist.com/visualizing-u-s-gdp-by-industry-in-2023/
+
+
+----- data
+VettaFi
+https://etfdb.com/etf/VGT/#holdings
+
+Vanguard
+https://investor.vanguard.com/investment-products/etfs/profile/vgt
+
+Yahoo Finance
+https://finance.yahoo.com/quote/VGT/?guccounter=1&guce_referrer=aHR0cHM6Ly9maW5hbmNlLnlhaG9vLmNvbS8&guce_referrer_sig=AQAAAAnXvzMrw9XRKvpSUz5FGNRR53058n4h7GWughwgnR8nffRIsrPS35lfiPD7irltdPNwBwbup2RWOBNUKMJ0xVqJtwZhBNqIpyUrBYjAN4-TCK-2OVjnmeAe7RKpvZ6CSucwBdx5PdP3BdHPnD0oRAadZ2Fxfw6UZdQP0fJ3HEEF
+
+
+Discounting Cash Flow.com
+
+ Etf.com
+
+Google Colab
+
+Gurufocus
+
+viasualcapitalist
+https://www.visualcapitalist.com/sp-500-earnings-growth-forecasts-vs-big-tech/
+
